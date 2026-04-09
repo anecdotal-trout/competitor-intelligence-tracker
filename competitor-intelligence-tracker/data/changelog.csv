@@ -1,0 +1,21 @@
+date,competitor,change_type,category,description,impact_level
+2025-01-20,Competitor_A,feature_launch,product,Launched real-time voice streaming API,high
+2025-01-28,Competitor_B,pricing_change,pricing,Reduced creator tier from $25 to $22/mo,medium
+2025-02-05,Competitor_C,feature_launch,product,Added 5 new languages including Japanese and Korean,medium
+2025-02-12,Competitor_A,partnership,go_to_market,Announced integration partnership with Salesforce,high
+2025-02-20,Competitor_B,feature_launch,product,Launched voice cloning for creator tier and above,high
+2025-03-01,Competitor_C,pricing_change,pricing,Increased Plus tier from $15 to $19/mo,medium
+2025-03-10,Competitor_A,pricing_change,pricing,Raised business tier from $99 to $119/mo,medium
+2025-03-15,Competitor_B,feature_launch,product,Released API access for creator tier,medium
+2025-03-22,Competitor_A,hiring,team,Posted 15 new engineering roles — scaling AI research team,low
+2025-04-02,Competitor_C,feature_launch,product,Launched dubbing feature for Plus tier,high
+2025-04-10,Competitor_B,pricing_change,pricing,Raised pro tier from $99 to $109/mo,medium
+2025-04-18,Competitor_A,partnership,go_to_market,Launched Shopify integration for e-commerce audio,medium
+2025-05-01,Competitor_C,feature_launch,product,Added voice cloning to Plus tier,high
+2025-05-12,Competitor_B,feature_launch,product,Launched team workspace for pro tier,medium
+2025-05-20,Competitor_A,feature_launch,product,Released voice cloning for pro tier,high
+2025-06-01,Competitor_A,pricing_change,pricing,Raised pro tier from $29 to $35/mo,medium
+2025-06-08,Competitor_C,pricing_change,pricing,Increased Plus tier from $19 to $22/mo,medium
+2025-06-15,Competitor_B,feature_launch,product,Expanded to 150+ voices from 100+,low
+2025-06-20,Competitor_A,feature_launch,product,Added SSO for business tier,low
+2025-06-25,Competitor_C,compliance,product,Achieved SOC2 certification for enterprise,medium

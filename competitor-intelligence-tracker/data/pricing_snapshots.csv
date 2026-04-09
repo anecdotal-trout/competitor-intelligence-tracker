@@ -1,0 +1,28 @@
+snapshot_date,competitor,product_tier,monthly_price_usd,annual_price_usd,included_units,unit_type,key_features,enterprise_available
+2025-01-15,Competitor_A,free,0,0,1000,api_calls,"basic voice synthesis, 3 voices, watermarked",no
+2025-01-15,Competitor_A,pro,29,290,50000,api_calls,"HD voices, 30 voices, no watermark, API access",no
+2025-01-15,Competitor_A,business,99,990,200000,api_calls,"custom voices, priority support, analytics dashboard",yes
+2025-01-15,Competitor_B,starter,0,0,5000,characters,"5 voices, basic quality, personal use only",no
+2025-01-15,Competitor_B,creator,22,220,100000,characters,"30 voices, commercial license, voice cloning",no
+2025-01-15,Competitor_B,pro,99,990,500000,characters,"100+ voices, API access, priority rendering",yes
+2025-01-15,Competitor_C,free,0,0,500,minutes,"basic TTS, limited languages",no
+2025-01-15,Competitor_C,plus,15,150,2000,minutes,"natural voices, 20 languages",no
+2025-01-15,Competitor_C,enterprise,custom,custom,unlimited,minutes,"custom models, SLA, dedicated support",yes
+2025-03-15,Competitor_A,free,0,0,1000,api_calls,"basic voice synthesis, 3 voices, watermarked",no
+2025-03-15,Competitor_A,pro,29,290,50000,api_calls,"HD voices, 30 voices, no watermark, API access",no
+2025-03-15,Competitor_A,business,119,1190,250000,api_calls,"custom voices, priority support, analytics, team seats",yes
+2025-03-15,Competitor_B,starter,0,0,5000,characters,"5 voices, basic quality, personal use only",no
+2025-03-15,Competitor_B,creator,25,250,100000,characters,"30 voices, commercial license, voice cloning, API access",no
+2025-03-15,Competitor_B,pro,109,1090,500000,characters,"100+ voices, priority rendering, analytics",yes
+2025-03-15,Competitor_C,free,0,0,500,minutes,"basic TTS, limited languages",no
+2025-03-15,Competitor_C,plus,19,190,2500,minutes,"natural voices, 25 languages, dubbing",no
+2025-03-15,Competitor_C,enterprise,custom,custom,unlimited,minutes,"custom models, SLA, dedicated support, on-prem option",yes
+2025-06-15,Competitor_A,free,0,0,1500,api_calls,"basic voice synthesis, 5 voices, watermarked",no
+2025-06-15,Competitor_A,pro,35,350,60000,api_calls,"HD voices, 50 voices, no watermark, API access, voice cloning",no
+2025-06-15,Competitor_A,business,129,1290,300000,api_calls,"custom voices, priority support, analytics, team seats, SSO",yes
+2025-06-15,Competitor_B,starter,0,0,5000,characters,"5 voices, basic quality, personal use only",no
+2025-06-15,Competitor_B,creator,25,250,120000,characters,"50 voices, commercial license, voice cloning, API access",no
+2025-06-15,Competitor_B,pro,119,1190,600000,characters,"150+ voices, priority rendering, analytics, team workspace",yes
+2025-06-15,Competitor_C,free,0,0,1000,minutes,"basic TTS, 10 languages",no
+2025-06-15,Competitor_C,plus,22,220,3000,minutes,"natural voices, 30 languages, dubbing, voice cloning",no
+2025-06-15,Competitor_C,enterprise,custom,custom,unlimited,minutes,"custom models, SLA, dedicated support, on-prem, SOC2",yes
